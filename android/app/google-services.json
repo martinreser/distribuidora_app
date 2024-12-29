@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631579313177",
+    "project_id": "distribuidora-ca933",
+    "storage_bucket": "distribuidora-ca933.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631579313177:android:600afc41d2e39edd6e9688",
+        "android_client_info": {
+          "package_name": "com.example.distribuidora_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-BwDJvmpzCeR0fS3DVd80o2mFDANxLto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
